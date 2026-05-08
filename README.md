@@ -98,13 +98,10 @@ Installation
 Clone the repository
 
 bash
-git clone https://github.com/yourusername/smart-inventory-system.git
+git clone https://github.com/Sherif-Mohamed06/Smart-Snventory-System.git
 cd smart-inventory-system
 Compile the source code
 
-bash
-# On Linux/Mac
-javac com/inventory/*.java com/inventory/model/*.java com/inventory/service/*.java com/inventory/util/*.java
 
 # On Windows
 javac com\inventory\*.java com\inventory\model\*.java com\inventory\service\*.java com\inventory\util\*.java
@@ -116,7 +113,7 @@ java com.inventory.Main
 
 # On Windows
 java com.inventory.Main
-📖 Usage Guide
+Usage Guide
 Main Menu
 text
 ================================================================
